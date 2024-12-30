@@ -943,6 +943,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"midi-parser-js@npm:^4.0.4":
+  version: 4.0.4
+  resolution: "midi-parser-js@npm:4.0.4"
+  checksum: 10c0/c398710467acf4294710ad75af6d82f39a2458d2e800a838d68d14b53903c412e5519eb48a01b5dfcee6c805104dd6d6cb1302e683294dbe2d664ed8f89c0bfa
+  languageName: node
+  linkType: hard
+
 "minimatch@npm:^9.0.4":
   version: 9.0.5
   resolution: "minimatch@npm:9.0.5"
@@ -1052,6 +1059,7 @@ __metadata:
     "@tauri-apps/api": "npm:^2"
     "@tauri-apps/cli": "npm:^2"
     "@tauri-apps/plugin-opener": "npm:^2"
+    midi-parser-js: "npm:^4.0.4"
     typescript: "npm:~5.6.2"
     vite: "npm:^6.0.3"
   languageName: unknown
